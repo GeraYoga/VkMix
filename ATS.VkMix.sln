@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATS.VkMix", "ATS.VkMix\ATS.VkMix.csproj", "{75D668A6-824E-4365-B165-131556E0A42F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75D668A6-824E-4365-B165-131556E0A42F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D668A6-824E-4365-B165-131556E0A42F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D668A6-824E-4365-B165-131556E0A42F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D668A6-824E-4365-B165-131556E0A42F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
